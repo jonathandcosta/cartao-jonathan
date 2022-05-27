@@ -99,7 +99,7 @@
 }
 .black-theme .card a.button:hover {
   background: rgba(0, 0, 0, 0.5);
-}
+} /*
 .white-theme {
   display: flex;
   justify-content: center;
